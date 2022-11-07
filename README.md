@@ -6,8 +6,10 @@
 
 - **展示：**
 
+  ![](https://github.com/Strivemans/ElectronicSaleDemo/blob/master/imgs/店铺总览.png)
+
   ![](https://github.com/Strivemans/ElectronicSaleDemo/blob/master/imgs/下单流程.png)
 
   ![](/E:/项目图片/电子产品线下门店管理系统/下单流程.png)
 
-  ![](/E:/项目图片/电子产品线下门店管理系统/下单流程.png)
+  ![](https://github.com/Strivemans/ElectronicSaleDemo/blob/master/imgs/客户管理.png)
