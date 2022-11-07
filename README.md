@@ -6,7 +6,7 @@
 
 - **展示：**
 
-  ![]([ElectronicSaleDemo/下单流程.png at master · Strivemans/ElectronicSaleDemo (github.com)](https://github.com/Strivemans/ElectronicSaleDemo/blob/master/imgs/下单流程.png))
+  ![](https://github.com/Strivemans/ElectronicSaleDemo/blob/master/imgs/下单流程.png)
 
   ![](/E:/项目图片/电子产品线下门店管理系统/下单流程.png)
 
